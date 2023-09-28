@@ -6,17 +6,13 @@ Welcome to the GitHub repository for the Semi-Autonomous Emergency Drone project
 
 ### Team Members
 
-- **Moise Baleke (Team Manager)**
-  - Student Number: 300207962
+- **Moise Baleke**
 
 - **Zinah Al-Saadi**
-  - Student Number: 8867078
 
 - **Kenneth Sidibe**
-  - Student Number: 300099184
 
 - **Avneesh Chaudhary**
-  - Student Number: 300120325
 
 ### Project Description
 
