@@ -1,6 +1,6 @@
 # Semi-Autonomous Emergency Drone Project
 
-Welcome to the GitHub repository for the Semi-Autonomous Emergency Drone project, developed as part of the CEG 4912 - Computer Engineering Design Project I & II course at [University Name]. This repository serves as a central hub for project documentation, source code, and collaboration tools.
+Welcome to the GitHub repository for the Semi-Autonomous Emergency Drone project, developed as part of the CEG 4912 - Computer Engineering Design Project I & II course at University of Ottawa. This repository serves as a central hub for project documentation, source code, and collaboration tools.
 
 ## Project Overview
 
